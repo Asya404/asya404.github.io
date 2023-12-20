@@ -8,7 +8,7 @@
 		<div class="container">
 			<div class="hero">
 				<div class="hero__photo-wrapper">
-					<div class="hero__photo" :style="{ backgroundImage: 'url(../../public/assets/hero.jpg)' }"></div>
+					<div class="hero__photo" :style="{ backgroundImage: 'url(/assets/hero.jpg)' }"></div>
 				</div>
 				<div class="hero__text">
 					<h1>I am Nastassia Kanavalava</h1>
@@ -28,24 +28,24 @@
 						Previously I used to work in React, however I find VueJS ecosystem quite interesting and started building my projects and I happily enjoy VueJS's ecosystem.
 					</p>
 					<div class="tools tools--main">
-						<img src="../../public/assets/tool-js.png" alt="" />
-						<img src="../../public/assets/tool-ts.png" alt="" />
-						<img src="../../public/assets/tool-vs.png" alt="" />
-						<img src="../../public/assets/tool-vue.png" alt="" />
-						<img src="../../public/assets/tool-nuxt.png" alt="" />
-						<img src="../../public/assets/tool-firebase.png" alt="" />
-						<img src="../../public/assets/tool-db.png" alt="" />
-						<img src="../../public/assets/tool-figma.png" alt="" />
-						<img src="../../public/assets/tool-adobe.png" alt="" />
-						<img src="../../public/assets/tool-webpack.png" alt="" />
-						<img src="../../public/assets/tool-vite.png" alt="" />
-						<img src="../../public/assets/tool-tailwind.png" alt="" />
+						<img src="/assets/tool-js.png" alt="" />
+						<img src="/assets/tool-ts.png" alt="" />
+						<img src="/assets/tool-vs.png" alt="" />
+						<img src="/assets/tool-vue.png" alt="" />
+						<img src="/assets/tool-nuxt.png" alt="" />
+						<img src="/assets/tool-firebase.png" alt="" />
+						<img src="/assets/tool-db.png" alt="" />
+						<img src="/assets/tool-figma.png" alt="" />
+						<img src="/assets/tool-adobe.png" alt="" />
+						<img src="/assets/tool-webpack.png" alt="" />
+						<img src="/assets/tool-vite.png" alt="" />
+						<img src="/assets/tool-tailwind.png" alt="" />
 					</div>
 					<p>and</p>
 					<div class="tools">
-						<img src="../../public/assets/tool-html.png" alt="" />
-						<img src="../../public/assets/tool-css.png" alt="" />
-						<img src="../../public/assets/tool-sass.png" alt="" />
+						<img src="/assets/tool-html.png" alt="" />
+						<img src="/assets/tool-css.png" alt="" />
+						<img src="/assets/tool-sass.png" alt="" />
 					</div>
 					<a class="hero__cta btn" href="https://github.com/Asya404">See my GH</a>
 				</div>
